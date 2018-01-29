@@ -6,7 +6,7 @@ fs.writeFile("index.html", "<div>Creating index file. Script Executed</div>", fu
         console.log(error);
     } else {
         console.log('Script Execueted');
-        console.log('Updated');
+        console.log('New File Updated');
     }
 });
 
